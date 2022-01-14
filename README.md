@@ -1,4 +1,15 @@
-# Queen Alexa
+## Queen Alexa
+
+</p>
+
+![My card name](https://cardivo.vercel.app/api?name=TOXIC%20-%20ALEXA&description=©%20mdjifi&image=https://www.linkpicture.com/q/mdjifi_1.jpg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=20?v=4&backgroundColor=%23e4f2f6&instagram=mr.covid_.19&github=MD-JIFI)
+</p>
+</p>
+
+
+<img align="center" alt="Coding" width="100" src="https://media2.giphy.com/media/qFw6AsQptpuzQ33Fjd/giphy.gif?cid=6c09b952d65a849d347feeab83b62850459c4e66cf9f4569&rid=giphy.gif&ct=g">
+
+
 
 <img
         src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Click+On+The+Gif+To+Install+The+Bot."
@@ -8,11 +19,11 @@
 </p>
 <div align="center">
   <p align="center">
-  <a href="https://youtu.be/BcMIibIUmHc"><img src="https://media.giphy.com/media/Uhl43Qa5QbhKglX8DX/giphy.gif" alt="GIF" width="128" height="128"/>
-</p>g
-WhatsApp Bot
+  <a href="https://www.instagram.com/mr.covid_.19"><img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" alt="GIF" width="400" height="250"/>
+</p>
+WhatsApp Bot `Toxic-Alexa`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HYPER-MOD/Queen-Alexa)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MD-JIFI/Queen-Alexa)
 # ```ALEXA-BUG-BOT```
 <p align="center">
 <a href="https://github.com/HYPER-MOD/followers"><img title="Followers" src="https://img.shields.io/github/followers/HYPER-MOD?color=red&style=flat-square"></a>
