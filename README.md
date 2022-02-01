@@ -23,7 +23,7 @@
 </p>
 WhatsApp Bot `Toxic-Alexa`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MD-JIFI/Queen-Alexa)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXICTURBO/Queen-Alexa)
 # ```ALEXA-BUG-BOT```
 <p align="center">
 <a href="https://github.com/HYPER-MOD/followers"><img title="Followers" src="https://img.shields.io/github/followers/HYPER-MOD?color=red&style=flat-square"></a>
